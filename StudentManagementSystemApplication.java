@@ -105,7 +105,7 @@ public class StudentManagementSystemApplication {
         while (true) {
             System.out.println("\nOptions:");
             System.out.println("1. Adding a new student");
-            System.out.println("2. Removeing a student");
+            System.out.println("2. Removing a student");
             System.out.println("3. Searching for a student");
             System.out.println("4. Display all students infromation");
             System.out.println("5. Save students to file");
